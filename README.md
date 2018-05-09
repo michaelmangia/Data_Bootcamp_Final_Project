@@ -13,6 +13,7 @@ Submitting the same or substantially similar work in multiple courses, either in
 or in a different semester, without the express approval of all instructors is strictly forbidden.
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for
 the project and course.
+
 Project Description:
 
 This project aims to determine who the most "clutch" National Football League (NFL) quarterbacks have been since 2009. In football, it is imperative to have a quarterback who performs well under pressure and can help a team win when they are losing late in a game. To achieve our goal, we have obtained data of every single NFL play since 2009.
